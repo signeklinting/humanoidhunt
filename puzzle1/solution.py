@@ -7,7 +7,7 @@ password = ""
 
 for line in open("input.txt", "r+").readlines():
     channel = line.strip()
-    
+
     i = 0
     count = 0
 
